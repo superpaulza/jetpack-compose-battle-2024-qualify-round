@@ -97,7 +97,7 @@ fun Qualify2Screen() {
             }
             Box(
                 modifier = Modifier
-                    .padding(top = 66.dp)
+                    .padding(top = 48.dp)
                     .fillMaxSize()
                     .background(color = LightColors.PrimaryContainer)
             ) {
